@@ -12,6 +12,10 @@ pip3 install telethon
 And also check https://my.telegram.org to get your API KEYS
 
 ## Usage
+**Initial page**
+![Recordit GIF](https://recordit.co/fnQKaw16iO)
+**Adding multiple users to a group**
+![Recordit GIF](https://recordit.co/d67VLRakCu)
 
 
 ## Contributing
