@@ -10,14 +10,15 @@ Use the package manager [pip](https://pypi.org/project/Telethon/) to install Tel
 pip3 install telethon
 ```
 And also check https://my.telegram.org to get your API KEYS
+![API](https://ibb.co/bvtRHDf.png)
 
 ## Usage
 
 
-![gif](https://recordit.co/fnQKaw16iO)
+![User interface](https://recordit.co/fnQKaw16iO.gif)
 
 
-![gif](https://recordit.co/d67VLRakCu)
+![Adding to a group](https://recordit.co/d67VLRakCu.gif)
 
 
 ## Contributing
